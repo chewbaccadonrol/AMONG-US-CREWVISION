@@ -1,4 +1,4 @@
-![Among Us Icon](https://upload.wikimedia.org/wikipedia/en/f/f3/Among_Us_cover_art.jpg)
+<img width="850" height="818" alt="image" src="https://github.com/user-attachments/assets/ff2868b3-890b-4f88-bf3c-a35c34565157" />
 
 # AMONG US CREWVISION
 [Download](https://github.com/chewbaccadonrol/AMONG-US-CREWVISION/releases/tag/AMONG-US-CREWVISION)
